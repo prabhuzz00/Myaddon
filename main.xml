@@ -7,3 +7,8 @@
     <title>Shared Lists</title>
     <link>file://shared lists/main.xml</link>
   </dir>
+
+<dir>
+  <title>Personal Best Movies</title>
+  <trakt>https://api.trakt.tv/users/prabhuzz00/lists/best-movies</trakt>
+</dir>
