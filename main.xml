@@ -9,3 +9,15 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
+<dir>
+<name>Hindi Movies</name>
+<link>https://raw.githubusercontent.com/prabhuzz00/Myaddon/master/dualaudiomovieDb.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Popular TV Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
