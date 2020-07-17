@@ -1,8 +1,8 @@
 <xml>
-  <dir>
-    <title>Formats</title>
-    <link>file://formats/main.xml</link>
-  </dir>
+ <dir>
+  <title>My lists</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+</dir>
 
   <dir>
     <title>Shared Lists</title>
