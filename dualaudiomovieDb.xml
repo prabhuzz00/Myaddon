@@ -1,15 +1,18 @@
+//My Dual Audio Movies Directory//
+
 <item>
-<title>Kalaa</title>
-<meta>
-<content>movie</content>
-<imdb>tt6929642</imdb>
-<title>Kaala</title>
-<year>2018</year>
-</meta>
-<link>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
-</link>
-<thumbnail></thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BNDk5MzM2ZWEtZDE5Ni00YTA5LWJhMTEtYjNlOWM5YTNmOWI5XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_.jpg</fanart>
+  <title>Kaala(2018)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt6929642</imdb>
+		<title>Kaala</title>
+		<year>2018</year>
+	</meta>
+	<link>
+		<sublink>http://103.133.204.82/Data/Disk2/Tamil%20Hindi%20Movie/Kaala.2018.Hindi.720p.HDRip.x264.AC3.-.Hon3yHD.mkv</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BNDZhZDBlOWQtNTc5YS00MmVkLWE3ZmEtOGQxOThiYzhkMGMyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+		<fanart>https://m.media-amazon.com/images/M/MV5BNDk5MzM2ZWEtZDE5Ni00YTA5LWJhMTEtYjNlOWM5YTNmOWI5XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_.jpg</fanart>
 </item>
