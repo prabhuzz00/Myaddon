@@ -1,14 +1,11 @@
- <dir>
-  <title>My lists</title>
-  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
-</dir>
-
-  <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
-  </dir>
-
 <dir>
   <title>Personal Best Movies</title>
   <trakt>https://api.trakt.tv/users/prabhuzz00/lists/best-movies/items</trakt>
+</dir>
+
+<dir>
+<name>Dual Audio Movies</name>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>
