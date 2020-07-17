@@ -1,4 +1,3 @@
-<xml>
  <dir>
   <title>My lists</title>
   <trakt>https://api.trakt.tv/users/me/lists/</trakt>
@@ -8,4 +7,3 @@
     <title>Shared Lists</title>
     <link>file://shared lists/main.xml</link>
   </dir>
-</xml>
