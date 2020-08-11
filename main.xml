@@ -21,3 +21,9 @@
   <title>Popular TV Shows</title>
   <trakt>https://api.trakt.tv/shows/popular</trakt>
 </dir>
+
+<dir>
+<title>Animated Movies</title>
+<tmdb>discover/movie?with_genres=16</tmdb>
+</dir>
+
