@@ -27,3 +27,8 @@
 <tmdb>discover/movie?with_genres=16</tmdb>
 </dir>
 
+<dir>
+  <title>Top Aimated Movies</title>
+  <tmdb>genre/movies/16</tmdb>
+</dir>
+
