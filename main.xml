@@ -4,25 +4,36 @@
 </dir>
 
 <dir>
-<name>Dual Audio Movies</name>
-<link>https://raw.githubusercontent.com/prabhuzz00/Myaddon/master/dualaudiomovieDb.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+  <title>Aimated Movies</title>
+  <tmdb>genre/movies/16</tmdb>
 </dir>
 
 <dir>
-<name>Hindi Movies</name>
-<link>https://raw.githubusercontent.com/prabhuzz00/Myaddon/master/hindiMovieDb.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+  <title>Action Movies</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>Adventure Movies</title>
+  <tmdb>genre/movies/12</tmdb>
+</dir>
+
+<dir>
+  <title>Si-Fi Movies</title>
+  <tmdb>genre/movies/878</tmdb>
+</dir>
+
+<dir>
+  <title>Family Movies</title>
+  <tmdb>genre/movies/10751</tmdb>
+</dir>
+
+<dir>
+  <title>Hindi Movies</title>
+  <tmdb>language/movies/3987</tmdb>
 </dir>
 
 <dir>
   <title>Popular TV Shows</title>
   <trakt>https://api.trakt.tv/shows/popular</trakt>
-</dir>
-
-<dir>
-  <title>Top Aimated Movies</title>
-  <tmdb>genre/movies/16</tmdb>
 </dir>
