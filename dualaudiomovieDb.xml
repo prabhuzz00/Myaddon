@@ -6,14 +6,10 @@
 	<meta>
 		<content>movie</content>
 		<imdb>tt6105098</imdb>
-		<title>The Lion King</title>
+		<title>Snow Drop</title>
 		<year>2019</year>
 	</meta>
-	<link>
-		<sublink>https://xs1.anavids.com/yh5cggtcopibrml753qkr7zcuqnofc6perpn3sh2kfwad7t2n7h7rukb6ooa/v.mp4</sublink>
-		<sublink>search</sublink>
-		<sublink>searchsd</sublink>
-	</link>
+	<link>https://assets-1.mypowerdisk.com/transcode_video/ad0ae98abc0c12bcf56988ee1d940dfa/dash/ad0ae98abc0c12bcf56988ee1d940dfa.mpd</link>
 	<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 	<fanart>https://m.media-amazon.com/images/M/MV5BZWYyMGVlZGUtYjliYi00MmQ1LWI0NGItN2EwYzliMGYxNDcwXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL50_SX1777_CR0,0,1777,937_AL_.jpg</fanart>
 </item>
