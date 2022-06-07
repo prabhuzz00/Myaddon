@@ -5,6 +5,11 @@
 </dir>
 
 <dir>
+  <title>Popular Movies</title>
+  <tmdb>movies/popular</tmdb>
+  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRq-yiGJJiNAPud_liMT5ql7qDsFXlGNHTYEA&usqp=CAU</thumbnail>
+</dir>
+<dir>
   <title>Animated Movies</title>
   <tmdb>genre/movies/16</tmdb>
   <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRq-yiGJJiNAPud_liMT5ql7qDsFXlGNHTYEA&usqp=CAU</thumbnail>
@@ -20,6 +25,12 @@
   <title>Adventure Movies</title>
   <tmdb>genre/movies/12</tmdb>
   <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyY7LNyZhPuvPTLO1tKLVXnv7jfGWxwcwruA&usqp=CAU</thumbnail>
+</dir>
+
+<dir>
+  <title>Bollywood Movies</title>
+  <tmdb>movies/popular/region=IN</tmdb>
+  <thumbnail>https://images-na.ssl-images-amazon.com/images/I/916WXTVJe9L._SY606_.jpg</thumbnail>
 </dir>
 
 <dir>
