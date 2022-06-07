@@ -29,7 +29,7 @@
 
 <dir>
   <title>Bollywood Movies</title>
-  <tmdb>discover/movie?&language=hi-IN&region=IN&sort_by=popularity.desc</tmdb>
+  <tmdb>discover/movie/language=hi-IN&region=IN&sort_by=popularity.desc</tmdb>
   <thumbnail>https://images-na.ssl-images-amazon.com/images/I/916WXTVJe9L._SY606_.jpg</thumbnail>
 </dir>
 
