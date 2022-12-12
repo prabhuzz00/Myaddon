@@ -1,11 +1,11 @@
  <dir>
     <title>Movies</title>
-    <link>file://movies.xml</link>
+    <link>https://raw.githubusercontent.com/prabhuzz00/Myaddon/master/movies.xml</link>
   </dir>
 
   <dir>
-    <title>TV</title>
-    <link>file://tv.xml</link>
+    <title>TV Shows</title>
+    <link>https://raw.githubusercontent.com/prabhuzz00/Myaddon/master/TV_Shows.xml</link>
   </dir>
 
   <dir>
