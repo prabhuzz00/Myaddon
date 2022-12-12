@@ -1,0 +1,70 @@
+<dir>
+  <title>Popular Movies</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>Action</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>Adventure</title>
+  <tmdb>genre/movies/12</tmdb>
+</dir>
+
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/movies/16</tmdb>
+</dir>
+
+<dir>
+  <title>Comedy</title>
+  <tmdb>genre/movies/35</tmdb>
+</dir>
+
+<dir>
+  <title>Drama</title>
+  <tmdb>genre/movies/18</tmdb>
+</dir>
+
+<dir>
+  <title>Family</title>
+  <tmdb>genre/movies/10751</tmdb>
+</dir>
+
+<dir>
+  <title>Fantasy</title>
+  <tmdb>genre/movies/14</tmdb>
+</dir>
+
+<dir>
+  <title>Horror</title>
+  <tmdb>genre/movies/27</tmdb>
+</dir>
+
+<dir>
+  <title>Mystery</title>
+  <tmdb>genre/movies/9648</tmdb>
+</dir>
+
+<dir>
+  <title>Romance</title>
+  <tmdb>genre/movies/10749</tmdb>
+</dir>
+
+<dir>
+  <title>Science Fiction</title>
+  <tmdb>genre/movies/878</tmdb>
+</dir>
+
